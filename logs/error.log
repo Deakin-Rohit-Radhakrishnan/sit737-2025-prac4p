@@ -1,0 +1,11 @@
+{"level":"error","message":"Error during add operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during add operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during sub operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during sub operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during sub operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during mul operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during mul operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during mul operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during div operation: ogger is not defined","service":"calculator-microservice"}
+{"level":"error","message":"Error during div operation: Cannot divide by zero","service":"calculator-microservice"}
+{"level":"error","message":"Error during div operation: Cannot divide by zero","service":"calculator-microservice"}
