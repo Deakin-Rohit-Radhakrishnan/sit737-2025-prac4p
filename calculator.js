@@ -63,7 +63,6 @@ const calculate = (req, res, operation) => {
     }
 };
 
-// Routes for each operation
 app.get("/add", (req, res) => calculate(req, res, "add"));
 app.get("/sub", (req, res) => calculate(req, res, "sub"));
 app.get("/mul", (req, res) => calculate(req, res, "mul"));
